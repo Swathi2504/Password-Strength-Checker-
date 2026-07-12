@@ -116,7 +116,7 @@ http://127.0.0.1:5000/
 **Input**
 
 ```
-Password@123
+Password@123$WX!
 ```
 
 **Output**
@@ -165,10 +165,6 @@ Through this project, I learned:
 - Download security report
 
 ---
-
-## 👩‍💻 Author
-
-**Swathi L**
 
 
 ## 📄 License
