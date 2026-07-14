@@ -170,3 +170,4 @@ Through this project, I learned:
 ## 📄 License
 
 This project is created for educational purposes as part of the Decode Labs Cybersecurity Internship.
+Feel free to use and modify the code for academic and personal projects.
