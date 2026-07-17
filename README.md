@@ -49,7 +49,7 @@ The objective of this project is to help users create stronger and more secure p
 ## 📂 Project Structure
 
 ```
-PasswordStrengthChecker/
+password-strength-checker/
 │
 ├── app.py
 ├── requirements.txt
@@ -69,13 +69,14 @@ PasswordStrengthChecker/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/swathi2504/PasswordStrengthChecker.git
+
+git clone https://github.com/Swathi2504/password-strength-checker.git
 ```
 
 ### 2. Navigate to the project folder
 
 ```bash
-cd PasswordStrengthChecker
+cd password-strength-checker
 ```
 
 ### 3. Install dependencies
